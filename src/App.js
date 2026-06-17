@@ -1,12 +1,11 @@
 import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Netflix Clone</h1>
-      <p>Welcome to your Netflix Clone</p>
-    </div>
-  );
+    return (
+        <div className="App">
+            <h1>Netflix Clone & yeah</h1>
+        </div>
+    );
 }
 
 export default App;
